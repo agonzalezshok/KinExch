@@ -9,7 +9,7 @@
     "red": 0.05882352941176471
   },
   "booleanOperation": -1,
-  "changeIdentifier": 620,
+  "changeIdentifier": 738,
   "clippingMaskMode": 0,
   "do_objectID": "B28DDEF0-1F60-4140-96C9-9C0D12A74287",
   "exportOptions": {
@@ -106,7 +106,7 @@
     },
     {
       "class": "group",
-      "id": "EDE6BA74-E42E-4CE3-B212-8B71555AEA0C"
+      "id": "F4641A48-53A8-4801-BA3E-E0FB7B8D7BDB"
     }
   ],
   "name": "2 Molecules / Exchange / Table / History / Detail / Dark",
@@ -260,7 +260,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 98,
+  "changeIdentifier": 101,
   "clippingMaskMode": 0,
   "do_objectID": "80E83343-6FE8-4A3C-9DF5-62D7F694EE1C",
   "exportOptions": {
@@ -64,6 +64,11 @@
   "name": "1 Atoms / Collapse Light / Horizontal",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D800B6BD-2C4E-42FF-9031-6AB94C659797_symbolID"
+    }
   ],
   "presetDictionary": {
   },
