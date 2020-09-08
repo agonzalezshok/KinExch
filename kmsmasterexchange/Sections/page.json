@@ -189,6 +189,10 @@
     },
     {
       "class": "artboard",
+      "id": "9D466859-C496-4DB3-A030-84F9F6F194C4"
+    },
+    {
+      "class": "artboard",
       "id": "DCC5681C-8D8C-4EF3-8B3A-55F11EC3C724"
     },
     {
@@ -222,6 +226,10 @@
     {
       "class": "text",
       "id": "EDDBC180-FEC0-4642-9605-03488E92C05C"
+    },
+    {
+      "class": "artboard",
+      "id": "758AF9AA-E29D-4E85-8966-EBCFE5916C5D"
     }
   ],
   "name": "Sections",
