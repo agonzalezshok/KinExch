@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 56,
-    "width": 312,
-    "x": 1400,
+    "width": 296,
+    "x": 1416,
     "y": 0
   },
   "groupLayout": {
@@ -51,7 +51,7 @@
   ],
   "name": "Group 2",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

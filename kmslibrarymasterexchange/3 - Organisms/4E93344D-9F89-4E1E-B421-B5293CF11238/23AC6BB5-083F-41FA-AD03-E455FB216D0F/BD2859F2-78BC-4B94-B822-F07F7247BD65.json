@@ -77,7 +77,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 19,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -172,10 +172,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.1,
-          "blue": 0.8470588235294118,
-          "green": 0.8470588235294118,
-          "red": 0.8470588235294118
+          "alpha": 1,
+          "blue": 0.9686274509803922,
+          "green": 0.9686274509803922,
+          "red": 0.9686274509803922
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

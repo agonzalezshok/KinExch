@@ -77,7 +77,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 19,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -172,7 +172,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.1,
+          "alpha": 1,
           "blue": 0.2769757699275363,
           "green": 0.1561713520101671,
           "red": 0.1220318931452838

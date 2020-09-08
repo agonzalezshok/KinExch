@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1113,
+  "changeIdentifier": 3732,
   "clippingMaskMode": 0,
   "do_objectID": "B7FB85E6-2B27-4FD7-AD46-4EB41B8A2E32",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,43 +54,15 @@
   "layers": [
     {
       "class": "group",
-      "id": "69976FBC-1DB4-4283-A603-57D7D9F893D0"
+      "id": "F5E1098F-E6CC-4912-8603-24F1F3E4BEFC"
     },
     {
-      "class": "rectangle",
-      "id": "1D25A24A-C22C-4F55-81E1-E2DE60C03863"
+      "class": "group",
+      "id": "EA6E6532-6D49-45EB-9643-B6D8A429EDAA"
     },
     {
       "class": "group",
       "id": "61FDE884-5CD7-44D9-9DBE-7EE36DF08539"
-    },
-    {
-      "class": "group",
-      "id": "CF7C1F4F-8566-44EA-BE22-EEE03C3F9922"
-    },
-    {
-      "class": "oval",
-      "id": "E206E942-8742-45A1-B934-3557E4BF3C32"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "594694AC-82A7-4289-8F37-0507362BA25E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FECE18C0-8F9F-48E1-A7C5-6C74A1C08C5D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "53694FD9-0E77-4DB9-B36B-FB3DCA1F3D7B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AB5E39DC-3B78-441A-B3CD-0708F8B8AA95"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "40864EC9-4BF0-4F53-9D3C-C0523177A248"
     }
   ],
   "name": "3 Organisms / Header / Exchange / Dark",
@@ -100,6 +72,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "4AB4F3E4-FD2C-4C45-8709-8E5242D6BCDF_fillColor"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "40864EC9-4BF0-4F53-9D3C-C0523177A248_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -179,7 +156,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 765,
+    "width": 709,
     "x": 48,
     "y": 44
   },
@@ -75,7 +75,7 @@
   ],
   "name": "Detail",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
