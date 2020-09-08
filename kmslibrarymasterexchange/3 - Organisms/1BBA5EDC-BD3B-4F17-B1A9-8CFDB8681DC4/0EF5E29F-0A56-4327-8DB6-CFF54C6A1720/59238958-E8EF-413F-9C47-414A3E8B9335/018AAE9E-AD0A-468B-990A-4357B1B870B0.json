@@ -17,8 +17,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 23,
-    "width": 57,
+    "height": 22,
+    "width": 51,
     "x": 959,
     "y": 1.125
   },
@@ -77,7 +77,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

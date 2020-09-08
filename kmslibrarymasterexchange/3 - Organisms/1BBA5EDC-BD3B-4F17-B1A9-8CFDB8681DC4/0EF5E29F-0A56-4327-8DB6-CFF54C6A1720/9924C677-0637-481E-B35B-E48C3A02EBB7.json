@@ -19,7 +19,7 @@
     "height": 1,
     "width": 1024,
     "x": 64,
-    "y": 467.5
+    "y": 473.5
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -54,7 +54,7 @@
       "point": "{1, 0.49999999999999983}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 55,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F29A38C2-3928-4AFE-B972-D8A42A3CB9FC",
+  "do_objectID": "4F95DC94-C9EE-466F-B0D9-A162086FC82F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 15,
-    "x": 292,
-    "y": 482
+    "height": 904,
+    "width": 16,
+    "x": 1288,
+    "y": 56
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,16 +28,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "1 Atoms/Typography/Metropolis/Dark/Regular/Left/Size 14 Copy 37",
+  "name": "1 Atoms / Collapse Light / Vertical",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "0D3FDBB3-29F0-4AAA-A4C7-84375C26F97D_stringValue",
-      "value": "1d"
-    }
   ],
-  "resizingConstraint": 33,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EA65DB6C-C848-4E7C-8AF3-CD8C27750EDB",
+    "do_objectID": "6D40E9AE-9854-437D-89D6-D19E0377267C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C6B7D5C1-20FD-474B-B251-9B77CF86150B",
+  "symbolID": "B6EE7A64-F743-447A-BAB0-A53ECBB441EB",
   "verticalSpacing": 0
 }

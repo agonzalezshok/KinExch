@@ -68,6 +68,14 @@
     {
       "class": "symbolInstance",
       "id": "D78684C0-BA9E-4320-86D3-042F8A150917"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18CC59B5-01A0-4A87-99B2-BA69ED773985"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F95DC94-C9EE-466F-B0D9-A162086FC82F"
     }
   ],
   "layout": {
@@ -80,7 +88,7 @@
     "gutterWidth": 31.83333333333333,
     "guttersOutside": true,
     "horizontalOffset": 217,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1368
