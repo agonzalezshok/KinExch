@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 902,
+  "changeIdentifier": 905,
   "clippingMaskMode": 0,
   "do_objectID": "E34A01DA-8CED-4972-9121-7F953E8C9976",
   "exportOptions": {
@@ -148,7 +148,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

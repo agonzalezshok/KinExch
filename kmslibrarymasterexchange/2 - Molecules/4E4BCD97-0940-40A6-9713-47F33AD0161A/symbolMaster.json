@@ -9,7 +9,7 @@
     "red": 0.05882352941176471
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1621,
+  "changeIdentifier": 1624,
   "clippingMaskMode": 0,
   "do_objectID": "4E4BCD97-0940-40A6-9713-47F33AD0161A",
   "exportOptions": {
@@ -260,7 +260,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
