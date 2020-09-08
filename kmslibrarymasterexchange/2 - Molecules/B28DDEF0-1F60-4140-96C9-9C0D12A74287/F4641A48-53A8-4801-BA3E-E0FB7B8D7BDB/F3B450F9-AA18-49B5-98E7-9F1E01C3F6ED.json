@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6F62DCC4-6286-4E0B-9E92-752E7AC5BCF4",
+  "do_objectID": "F3B450F9-AA18-49B5-98E7-9F1E01C3F6ED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 60,
-    "x": 0,
+    "height": 15.99999999999994,
+    "width": 137,
+    "x": 68,
     "y": 0
   },
   "hasClippingMask": false,
@@ -28,13 +28,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "1 Atoms/Typography/Metropolis/Dark/Regular/Right/Size 12",
+  "name": "1 Atoms/Typography/Metropolis/Dark/Regular/Right/Size 12 Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "B628A817-22AE-490D-9EBA-6CC80F062058_stringValue",
-      "value": "Executed:"
+      "overrideName": "3605444D-2E45-44DF-AAC6-CE6B8C3DE553_stringValue",
+      "value": "00:00:00 (00/00/00)"
     }
   ],
   "resizingConstraint": 63,
@@ -76,7 +76,7 @@
       "blendMode": 0,
       "opacity": 0.6
     },
-    "do_objectID": "082B8521-3F78-4C2F-A474-652D5E6FB2DA",
+    "do_objectID": "2B7F2E00-B25C-444C-BC8C-7C90A0362740",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "173EA295-9A89-4D41-87B1-1991812161B4",
+  "symbolID": "8BE6AC07-F551-4E08-B9A9-721ED31628A9",
   "verticalSpacing": 0
 }

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "00E61A56-F92F-4EC6-85D8-A01B8E8AB364",
+  "do_objectID": "51A034BB-4513-4BE8-B3BA-21C0F011D08F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 12,
-    "width": 12,
-    "x": 751,
-    "y": 2
+    "constrainProportions": false,
+    "height": 16,
+    "width": 60,
+    "x": 221,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "1 Atoms/Icons/UI/Lineart/icon-file-download-lineart",
+  "name": "1 Atoms/Typography/Metropolis/Dark/Regular/Right/Size 12 Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B628A817-22AE-490D-9EBA-6CC80F062058_stringValue",
+      "value": "Amount:"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,9 +74,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.6
     },
-    "do_objectID": "F5CCEBD9-A2D5-4165-88A8-BC003A77D14F",
+    "do_objectID": "10E3F866-05C4-4BDC-9A10-46BF03362842",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E0B631CA-F037-4F5B-805F-DAC69C4A93F4",
+  "symbolID": "173EA295-9A89-4D41-87B1-1991812161B4",
   "verticalSpacing": 0
 }

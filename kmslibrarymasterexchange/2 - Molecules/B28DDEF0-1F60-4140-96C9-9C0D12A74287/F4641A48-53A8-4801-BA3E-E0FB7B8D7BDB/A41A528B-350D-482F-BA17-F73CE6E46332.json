@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E8D9DC6-63FE-4F67-AD1E-7A964AC46C8E",
+  "do_objectID": "A41A528B-350D-482F-BA17-F73CE6E46332",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15.99999999999994,
+    "height": 16,
     "width": 60,
-    "x": 313,
+    "x": 357,
     "y": 0
   },
   "hasClippingMask": false,
@@ -28,13 +28,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "1 Atoms/Typography/Metropolis/Dark/Regular/Right/Size 12 Copy 3",
+  "name": "1 Atoms/Typography/Metropolis/Dark/Regular/Right/Size 12 Copy 4",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "3605444D-2E45-44DF-AAC6-CE6B8C3DE553_stringValue",
-      "value": "0.00000"
+      "overrideName": "B628A817-22AE-490D-9EBA-6CC80F062058_stringValue",
+      "value": "Price:"
     }
   ],
   "resizingConstraint": 63,
@@ -76,7 +76,7 @@
       "blendMode": 0,
       "opacity": 0.6
     },
-    "do_objectID": "B3BCF80E-6399-4C88-A3D3-F3ADB29E7770",
+    "do_objectID": "EAF5DFE2-4F2C-4F80-B190-801E35EC1111",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8BE6AC07-F551-4E08-B9A9-721ED31628A9",
+  "symbolID": "173EA295-9A89-4D41-87B1-1991812161B4",
   "verticalSpacing": 0
 }
