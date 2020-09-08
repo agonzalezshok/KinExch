@@ -59,7 +59,7 @@
   ],
   "name": "chart-lines",
   "nameIsFixed": true,
-  "resizingConstraint": 18,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

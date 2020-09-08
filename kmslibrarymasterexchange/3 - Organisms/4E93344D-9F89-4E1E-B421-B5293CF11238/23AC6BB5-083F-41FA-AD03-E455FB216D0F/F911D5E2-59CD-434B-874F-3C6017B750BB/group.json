@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 1010,
+    "height": 25,
+    "width": 1016,
     "x": 64,
     "y": 251
   },
@@ -43,7 +43,7 @@
   ],
   "name": "selection",
   "nameIsFixed": true,
-  "resizingConstraint": 62,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

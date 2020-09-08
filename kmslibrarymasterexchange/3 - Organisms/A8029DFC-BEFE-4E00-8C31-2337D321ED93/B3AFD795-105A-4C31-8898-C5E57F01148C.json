@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "name": "3 Organisms / Modules / Type E Small",
   "nameIsFixed": false,
   "overrideValues": [
@@ -37,7 +37,7 @@
       "value": "RECENT EXECUTED ORDERS"
     }
   ],
-  "resizingConstraint": 31,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

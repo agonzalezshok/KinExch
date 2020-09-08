@@ -203,7 +203,7 @@
   ],
   "name": "Light chart Copy",
   "nameIsFixed": true,
-  "resizingConstraint": 27,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
