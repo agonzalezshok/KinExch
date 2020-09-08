@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "61FDE884-5CD7-44D9-9DBE-7EE36DF08539",
+  "do_objectID": "3339EF53-6683-4EF2-B251-A26AA4BBF882",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,46 +14,33 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 56,
-    "width": 312,
-    "x": 1400,
-    "y": 0
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 1440,
+    "y": 20
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Notification",
+  "nameIsFixed": true,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "E86D528D-317B-4900-9E44-1701B230D603"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7146C0DC-D97C-4B82-8490-3DB366479824"
-    },
-    {
-      "class": "text",
-      "id": "B4ED9709-A5D1-491F-8B29-2E17D6096038"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "163595A1-4E81-406C-977E-493475AE40DD"
+      "_class": "overrideValue",
+      "overrideName": "5F9850D1-3DD1-40E6-9D60-94097C401AFD_layerStyle",
+      "value": "E1EE58BC-8865-42E8-A35E-A87CB8DF5855"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4098ADF5-CA15-47B4-97F6-55F443629CE1",
+    "do_objectID": "006AF601-7E95-49EC-8B4C-C35B6D693525",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -100,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "2271D909-3008-4917-AC53-61EA2EE0605E",
+  "verticalSpacing": 0
 }
