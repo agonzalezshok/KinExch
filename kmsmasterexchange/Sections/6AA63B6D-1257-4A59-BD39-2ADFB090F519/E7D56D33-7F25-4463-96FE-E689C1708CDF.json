@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6F6A6ACA-6577-4AFC-BCFD-50DC62785E81",
+  "do_objectID": "E7D56D33-7F25-4463-96FE-E689C1708CDF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 156,
-    "x": 0,
-    "y": 16
+    "height": 266,
+    "width": 776,
+    "x": 512,
+    "y": 454
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,16 +28,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Tab Module Inactive",
+  "name": "3 Organisms / Exchange / Order Book / Light Copy",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "725B506F-1505-4CE8-8D1F-494A3BB33BCC_layerStyle",
-      "value": "C7CD22EC-2245-4245-9E58-F693A7415135"
-    }
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -76,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9276C369-5905-46D4-AAB0-463C60B4BFD0",
+    "do_objectID": "778C28FC-764B-4FAE-B9B5-DF8C5123CD1F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9657843A-207A-448B-AC3F-495BBAE12E63",
+  "symbolID": "05AE385F-FAD2-4FFE-8670-57E085E2EFBC",
   "verticalSpacing": 0
 }
