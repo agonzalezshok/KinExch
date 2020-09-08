@@ -1,0 +1,136 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A1B3DAC2-C5F7-42F3-A307-7A16325E3391",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 96,
+    "x": 404,
+    "y": 129
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "093C1E2D-E961-4896-BBEB-A67AEB43FFA8"
+    },
+    {
+      "class": "group",
+      "id": "C8A76CD1-DE30-4321-A257-B0D289FFECA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DE5FD1F-E38B-4090-8B46-E17D41360293"
+    }
+  ],
+  "name": "2 Molecules / Navigation / Small / Product / Money",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "E7D08B14-7A59-4A10-A3F2-2AC7831D3F13",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "350F572E-945C-4ED8-86B3-278274932091",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 96,
+          "x": 404,
+          "y": 129
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "4BFF8D9F-BFBB-47F9-9228-F765A1724C07",
+        "symbolID": "D339D333-541F-41BE-936A-601BE10BABF1"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "350F572E-945C-4ED8-86B3-278274932091",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 96,
+          "x": 404,
+          "y": 129
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "4BFF8D9F-BFBB-47F9-9228-F765A1724C07",
+        "symbolID": "D339D333-541F-41BE-936A-601BE10BABF1"
+      }
+    }
+  }
+}

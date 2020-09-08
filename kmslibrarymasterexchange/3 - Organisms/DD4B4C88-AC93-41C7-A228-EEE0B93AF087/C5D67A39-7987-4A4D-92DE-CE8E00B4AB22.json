@@ -1,0 +1,125 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5D67A39-7987-4A4D-92DE-CE8E00B4AB22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 162,
+    "x": 0,
+    "y": 240
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dashboard Copy 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "45659A73-5B1D-49A6-9966-1A0CBEEE2BDA/E63978F2-3E17-423C-812A-8DA24F69088A_stringValue",
+      "value": "DEBIT CARD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "433C0641-8DF6-4CBB-BBB2-FA8C40C442B1_symbolID",
+      "value": "F52A301B-6279-4F8E-B870-C0CB06B31B29"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "433C0641-8DF6-4CBB-BBB2-FA8C40C442B1/5634F668-ACC3-4843-BF7A-83865ADF536E_layerStyle",
+      "value": "6861B3A5-958F-4553-A317-BF15218BAB99"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "433C0641-8DF6-4CBB-BBB2-FA8C40C442B1/FA5AAF57-F9F8-41A4-B41C-DD0D63E5EA55_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9098039215686274,
+        "green": 0.4901960784313725,
+        "red": 0.00392156862745098
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "433C0641-8DF6-4CBB-BBB2-FA8C40C442B1/5070D796-B4CD-407A-B320-8D610CEE6861_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9098039215686274,
+        "green": 0.4901960784313725,
+        "red": 0.00392156862745098
+      }
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "5B668005-F483-4E77-9BA5-57188C8E07C2",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7972DAF1-DA36-4B50-A22B-1AD1D5EC0FFF",
+  "verticalSpacing": 0
+}

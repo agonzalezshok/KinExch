@@ -1,0 +1,140 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "870D8D5B-696B-4466-90F2-3EFBCE49866B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39,
+    "width": 127,
+    "x": 390,
+    "y": 48
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8B8B77BF-6A04-4B96-A2FF-C27468117717"
+    },
+    {
+      "class": "rectangle",
+      "id": "09C14F0E-5E8D-4BDD-8C02-73D4F2F3C419"
+    },
+    {
+      "class": "rectangle",
+      "id": "900D1CD5-63ED-4E02-A69F-5A8815B2B171"
+    },
+    {
+      "class": "rectangle",
+      "id": "ACD35F16-D8CE-4E33-8CC6-FBA7977A0700"
+    },
+    {
+      "class": "rectangle",
+      "id": "E01B2A1D-9A29-4CC2-BFE9-91EAEF66FE1C"
+    },
+    {
+      "class": "rectangle",
+      "id": "3EE7D3B9-F754-4B44-A2AA-94B716E833E9"
+    },
+    {
+      "class": "rectangle",
+      "id": "59620464-F9AF-46B8-8AB9-3402AC7FC1DD"
+    },
+    {
+      "class": "rectangle",
+      "id": "261F0E62-60C3-49BE-B910-BB8949C8CC8D"
+    },
+    {
+      "class": "rectangle",
+      "id": "3825C2F5-F665-4E6F-8845-2A04D1111A60"
+    },
+    {
+      "class": "rectangle",
+      "id": "F086A03D-6416-4811-9100-D0B0C11E48A9"
+    },
+    {
+      "class": "rectangle",
+      "id": "E80D26FA-2EAD-40EA-BA0F-E4ED177631C3"
+    },
+    {
+      "class": "rectangle",
+      "id": "23C4F0AE-682B-4371-9EFD-986A4441CAA6"
+    },
+    {
+      "class": "rectangle",
+      "id": "8C3EEF63-9E4A-4194-9B3F-C775C154269B"
+    }
+  ],
+  "name": "Group Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "AA34683A-FAF7-4603-8C11-B62211E68448",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
