@@ -31,6 +31,11 @@
   "name": "2 Molecules / Inputs / Options / Text - Item / Light",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CD0F72FB-B8B8-40B1-A014-2DB898835B8B/CEBF0838-44B2-499B-8BE5-88890ED3B4D0_stringValue",
+      "value": "0 USD"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
