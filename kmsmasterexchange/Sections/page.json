@@ -53,6 +53,18 @@
     },
     {
       "class": "artboard",
+      "id": "892BEBC6-E2D9-40FC-A374-964E1812FE09"
+    },
+    {
+      "class": "artboard",
+      "id": "58644653-1088-4D8B-BE46-A96E80BBF6FF"
+    },
+    {
+      "class": "artboard",
+      "id": "8622AD61-C84F-4F92-BBBA-6A126ACA841A"
+    },
+    {
+      "class": "artboard",
       "id": "26BF1209-25E0-495F-A5C9-A1CB9AB14169"
     },
     {
@@ -189,6 +201,10 @@
     },
     {
       "class": "artboard",
+      "id": "9D466859-C496-4DB3-A030-84F9F6F194C4"
+    },
+    {
+      "class": "artboard",
       "id": "DCC5681C-8D8C-4EF3-8B3A-55F11EC3C724"
     },
     {
@@ -222,6 +238,10 @@
     {
       "class": "text",
       "id": "EDDBC180-FEC0-4642-9605-03488E92C05C"
+    },
+    {
+      "class": "artboard",
+      "id": "758AF9AA-E29D-4E85-8966-EBCFE5916C5D"
     }
   ],
   "name": "Sections",

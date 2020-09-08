@@ -34,7 +34,7 @@
     "height": 768,
     "width": 1356,
     "x": 30048,
-    "y": 35175
+    "y": 35148
   },
   "grid": {
     "_class": "simpleGrid",
@@ -88,7 +88,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1212
   },
-  "name": "KMS-Nav-Exchange-Grid-Medium Exchange",
+  "name": "KMS-Exchange-Grid-Medium Default",
   "nameIsFixed": true,
   "presetDictionary": {
   },

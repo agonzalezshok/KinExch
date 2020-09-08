@@ -77,7 +77,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 45,
+  "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

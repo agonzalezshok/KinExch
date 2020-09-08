@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 765,
-    "x": 48,
+    "width": 701,
+    "x": 40,
     "y": 68
   },
   "groupLayout": {
@@ -75,7 +75,7 @@
   ],
   "name": "Detail Copy",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

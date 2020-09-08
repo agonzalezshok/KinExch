@@ -35,6 +35,11 @@
       "_class": "overrideValue",
       "overrideName": "61E84D0D-E80C-40FF-B616-694E345AC396_stringValue",
       "value": "11:00"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "61E84D0D-E80C-40FF-B616-694E345AC396_textStyle",
+      "value": "B467668A-6DB5-44C6-9BE1-4E91991B4DDC"
     }
   ],
   "resizingConstraint": 63,

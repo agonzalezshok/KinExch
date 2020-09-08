@@ -34,7 +34,7 @@
     "height": 960,
     "width": 768,
     "x": 30048,
-    "y": 37523
+    "y": 38195
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -86,7 +86,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 558
   },
-  "name": "KMS-Exchange-Grid-Small-Closed Exchange",
+  "name": "KMS-Exchange-Grid-Small Default",
   "nameIsFixed": true,
   "presetDictionary": {
   },

@@ -52,6 +52,38 @@
     {
       "class": "symbolInstance",
       "id": "0DE7FEA9-5266-4C80-99CB-90AC04FCA58C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "257978EC-5F12-4748-8F8B-EB7DD1E07D53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6544B715-CA54-49C4-B688-CAE59FFE71AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85DD7FD6-7FA5-494C-B2FF-FEFBEBEA8037"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D78684C0-BA9E-4320-86D3-042F8A150917"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18CC59B5-01A0-4A87-99B2-BA69ED773985"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F95DC94-C9EE-466F-B0D9-A162086FC82F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7D56D33-7F25-4463-96FE-E689C1708CDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40BF472D-52AC-46E7-8377-D6C172662C68"
     }
   ],
   "layout": {
@@ -64,12 +96,12 @@
     "gutterWidth": 31.83333333333333,
     "guttersOutside": true,
     "horizontalOffset": 217,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1368
   },
-  "name": "KMS-Exchange-Grid-Large Exchange",
+  "name": "KMS-Exchange-Grid-Large Default",
   "nameIsFixed": true,
   "presetDictionary": {
   },
