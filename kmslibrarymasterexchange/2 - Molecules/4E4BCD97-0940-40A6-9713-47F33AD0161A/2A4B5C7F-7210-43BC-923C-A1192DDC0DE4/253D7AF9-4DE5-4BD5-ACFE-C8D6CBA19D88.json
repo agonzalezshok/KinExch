@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 60,
-    "x": 221,
+    "x": 245,
     "y": 0
   },
   "hasClippingMask": false,
@@ -37,7 +37,7 @@
       "value": "Amount:"
     }
   ],
-  "resizingConstraint": 45,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

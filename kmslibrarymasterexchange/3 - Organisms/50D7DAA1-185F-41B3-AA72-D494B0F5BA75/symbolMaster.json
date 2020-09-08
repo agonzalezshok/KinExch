@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9828,
+  "changeIdentifier": 4676,
   "clippingMaskMode": 0,
   "do_objectID": "50D7DAA1-185F-41B3-AA72-D494B0F5BA75",
   "exportOptions": {
@@ -53,16 +53,76 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "84536D8F-9560-4915-BCE6-B99FAE5958E5"
+      "class": "rectangle",
+      "id": "589A191A-CF46-4091-8A4C-A3578AC7578E"
     },
     {
-      "class": "group",
-      "id": "68C9F21F-51C6-4DFB-A149-BF311CBFD42C"
+      "class": "rectangle",
+      "id": "3948C7B7-44E5-4C08-A5C5-0E1CD979D231"
     },
     {
-      "class": "group",
-      "id": "B7882ACB-1457-412E-89B2-734C596846C5"
+      "class": "symbolInstance",
+      "id": "D6F28CD2-53F9-4C0F-B9CA-8BF2FAB77CD2"
+    },
+    {
+      "class": "text",
+      "id": "4C79B431-5B8C-4093-B0B0-0E1AB09FE747"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "760BFF0E-5645-4ED6-AC1D-70E5995D19AB"
+    },
+    {
+      "class": "oval",
+      "id": "AE7BCA50-3F79-4D27-BB5D-3FCC9B0111EA"
+    },
+    {
+      "class": "rectangle",
+      "id": "8D5CCAED-00D1-4754-B2A3-95CBD477A6BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07CA4FDF-DE10-4794-813B-B17C02C12B70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF960D1B-FFF4-4815-9D82-0F5BD8083E79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0419D25D-7F3D-418F-8B61-DD8ADD7F63E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AAF478E3-7C36-47F9-85C4-261850BAFC8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E380C20-F4DC-4D9D-9B5D-02E33BBCE0CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC7B5E49-D4BE-4D46-B26C-0B0B86886C73"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1988CD2-2540-4D43-8986-B8CB0833EF7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD6994F8-6C08-4325-AA27-BDAD9F9E5B26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BCDA0DD-DC9B-4DE9-A7C8-B78F1F4EE702"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DDD7A26-36BD-4AEE-A805-4ED4842BC600"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "816E9C2D-E984-4C96-87EC-8ABB3D027759"
     }
   ],
   "name": "3 Organisms / Header / Exchange / Light",
@@ -71,47 +131,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6BCDA0DD-DC9B-4DE9-A7C8-B78F1F4EE702_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6BCDA0DD-DC9B-4DE9-A7C8-B78F1F4EE702_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0DDD7A26-36BD-4AEE-A805-4ED4842BC600_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CC7B5E49-D4BE-4D46-B26C-0B0B86886C73_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C1988CD2-2540-4D43-8986-B8CB0833EF7E_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "AF960D1B-FFF4-4815-9D82-0F5BD8083E79_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0DDD7A26-36BD-4AEE-A805-4ED4842BC600_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "816E9C2D-E984-4C96-87EC-8ABB3D027759_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FD6994F8-6C08-4325-AA27-BDAD9F9E5B26_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -156,7 +176,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
