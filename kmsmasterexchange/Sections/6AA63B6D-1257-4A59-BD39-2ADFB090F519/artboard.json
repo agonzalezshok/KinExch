@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,7 +69,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1368
   },
-  "name": "KMS-Exchange-Grid-Large Exchange",
+  "name": "KMS-Exchange-Grid-Large Default",
   "nameIsFixed": true,
   "presetDictionary": {
   },
