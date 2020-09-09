@@ -270,6 +270,10 @@
     {
       "class": "artboard",
       "id": "EA84A0DB-3D2D-46D1-A69E-7B75E25F749E"
+    },
+    {
+      "class": "rectangle",
+      "id": "8FB343FD-E1C5-4B13-8D93-AC9324BCA1FF"
     }
   ],
   "name": "Sections",
