@@ -103,60 +103,8 @@
       "id": "32DBD1F2-7123-41A1-971F-7E8D8679C47F"
     },
     {
-      "class": "symbolInstance",
-      "id": "3166F48F-D6FA-4FE2-944C-DD0D16ECA5F4"
-    },
-    {
-      "class": "text",
-      "id": "71A12002-24F6-4B2C-A05E-5BEB768359C8"
-    },
-    {
       "class": "group",
-      "id": "D1CCDB69-FCDE-427F-B23F-A1BF43655FBC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "79A7EA46-EFCF-4A08-85BB-C42F35E7AB22"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5C1ABB9E-056D-4EB7-AB88-1F5415EB8BFE"
-    },
-    {
-      "class": "rectangle",
-      "id": "91525D3C-6F5B-4212-9D8F-C801F006044E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A41888F9-7A09-40F7-8036-67398A2E1DBD"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "05A3A517-04B1-4CF8-BA7A-432A2A79F08B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AC88137C-561C-4F0C-B9B6-E1BB3C4AC059"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BE9DED9F-88CC-413F-A7E3-F868FE5D3F0B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3B752B6E-CA43-4FAB-967F-B1990F6641A0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D8979C79-076A-4956-9533-89537E7B6A4A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AAF2F309-4EEB-49C7-ABDD-72AF6B686F02"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F275F6D9-E5C1-4B42-BFD9-01425697D92C"
+      "id": "D3253616-D551-44FF-A62B-187C6FF83F84"
     }
   ],
   "layout": {

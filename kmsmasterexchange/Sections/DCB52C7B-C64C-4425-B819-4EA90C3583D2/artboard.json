@@ -9,19 +9,10 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ECD8000D-5C9C-4E98-B98C-E1DF0CD34777",
+  "do_objectID": "DCB52C7B-C64C-4425-B819-4EA90C3583D2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -31,16 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1080,
-    "width": 1912,
+    "height": 960,
+    "width": 1600,
     "x": 42326,
-    "y": 32060
+    "y": 33664
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,70 +50,66 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "3D643353-2EF8-4756-B417-CBD1A02F94C6"
+      "class": "symbolInstance",
+      "id": "62AEA3DC-7001-48B0-AAC8-084A4610B1B5"
     },
     {
       "class": "symbolInstance",
-      "id": "39901911-08BB-4283-86CC-CDBEDA7E99BB"
+      "id": "6A7728F4-5DAD-4880-9342-F581FBD45655"
     },
     {
       "class": "symbolInstance",
-      "id": "7A1F85BB-346B-4012-8553-A3A8854EFF78"
+      "id": "6DA4C025-3628-4282-BF7F-0991A67BB118"
     },
     {
       "class": "symbolInstance",
-      "id": "03981F0D-F12F-41F3-BBB8-54354FF24B74"
+      "id": "A89B0562-D668-42BC-8CCF-07ED983D73FD"
     },
     {
       "class": "symbolInstance",
-      "id": "D6C3C7B8-8AE3-4989-A9F9-97CCE894D0B7"
+      "id": "7F16A6AD-1DC8-4BAC-B001-12956E504CAB"
     },
     {
       "class": "symbolInstance",
-      "id": "EA6A540B-64E1-49FC-B8DF-3B6A43156D8D"
+      "id": "5D2F7C42-8ED5-416C-A4F2-694CFE2E873B"
     },
     {
       "class": "symbolInstance",
-      "id": "759E7043-E8AB-4EC4-B82E-994A3C77B5A6"
+      "id": "7DFC48CE-7DA1-42FF-92AF-345D7AEB208E"
     },
     {
       "class": "symbolInstance",
-      "id": "52E8F87A-549B-477A-9FF0-9B54B5488D85"
+      "id": "EDF308AE-25B4-4B8C-B7D6-8D6638816367"
     },
     {
       "class": "symbolInstance",
-      "id": "7C8D957C-4BB3-4769-A10C-26902EDB41C1"
+      "id": "8E112384-3EED-43FC-A380-809C86A21631"
     },
     {
       "class": "symbolInstance",
-      "id": "8E51E758-31EC-47F8-91A8-B25F9C585A7B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4C3E0E79-9359-441F-BC62-1EF7EF0BA505"
+      "id": "0E7E923E-49B7-40CC-9F12-1A46B2A24D4F"
     },
     {
       "class": "group",
-      "id": "C6D0ED6F-BED4-4C00-B605-AFD261F1ECBF"
+      "id": "458B44FE-CA3E-4122-9597-FE989FCBB231"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 108,
+    "columnWidth": 82.16666666666667,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 32,
-    "guttersOutside": false,
-    "horizontalOffset": 232,
+    "gutterWidth": 31.83333333333333,
+    "guttersOutside": true,
+    "horizontalOffset": 217,
     "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 1648
+    "totalWidth": 1368
   },
-  "name": "Error Order Pop up",
+  "name": "Error Order Pop up - Large",
   "nameIsFixed": true,
   "presetDictionary": {
   },
@@ -165,7 +152,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7618101B-DFD0-4931-9361-2D2CC17428A0",
+    "do_objectID": "14002A4E-790D-410A-93EC-C2EF0F225A60",
     "endMarkerType": 0,
     "fills": [
     ],
