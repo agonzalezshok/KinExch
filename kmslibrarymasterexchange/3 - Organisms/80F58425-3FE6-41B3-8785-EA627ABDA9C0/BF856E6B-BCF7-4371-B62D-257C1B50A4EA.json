@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 250,
+    "height": 245,
     "width": 1088,
     "x": 0,
     "y": 16
@@ -33,38 +33,38 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "6F6A6ACA-6577-4AFC-BCFD-50DC62785E81_symbolID",
+      "overrideName": "1B85FE2E-BFE6-48EF-94DC-2A046AD0527B_symbolID",
       "value": "C238A74A-169A-4635-BF43-884292BD402D"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "DCE5E848-BCF8-4825-ACD8-4526C8624486_symbolID",
+      "overrideName": "0B39E8B4-1BDF-41FB-AD48-674CC606FE88_symbolID",
       "value": "9657843A-207A-448B-AC3F-495BBAE12E63"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "6F6A6ACA-6577-4AFC-BCFD-50DC62785E81/70CAFDBF-2CC4-4A10-A61F-DB36D69FDA51/923ED197-B186-49F9-965F-14FC5D23199B_stringValue",
-      "value": "ORDER BOOK"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "DCE5E848-BCF8-4825-ACD8-4526C8624486/725B506F-1505-4CE8-8D1F-494A3BB33BCC_layerStyle",
-      "value": "E1EE58BC-8865-42E8-A35E-A87CB8DF5855"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "6F6A6ACA-6577-4AFC-BCFD-50DC62785E81/70CAFDBF-2CC4-4A10-A61F-DB36D69FDA51/923ED197-B186-49F9-965F-14FC5D23199B_textStyle",
+      "overrideName": "0B39E8B4-1BDF-41FB-AD48-674CC606FE88/C9A0DA5C-3F81-449A-96AD-CF967833EB16/923ED197-B186-49F9-965F-14FC5D23199B_textStyle",
       "value": "4ABD48A0-B57B-4706-AB09-5181B0EDFB36"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "DCE5E848-BCF8-4825-ACD8-4526C8624486/C9A0DA5C-3F81-449A-96AD-CF967833EB16_symbolID",
+      "overrideName": "0B39E8B4-1BDF-41FB-AD48-674CC606FE88/C9A0DA5C-3F81-449A-96AD-CF967833EB16/923ED197-B186-49F9-965F-14FC5D23199B_stringValue",
+      "value": "DEPTH CHART"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0B39E8B4-1BDF-41FB-AD48-674CC606FE88/725B506F-1505-4CE8-8D1F-494A3BB33BCC_layerStyle",
+      "value": "E1EE58BC-8865-42E8-A35E-A87CB8DF5855"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1B85FE2E-BFE6-48EF-94DC-2A046AD0527B/70CAFDBF-2CC4-4A10-A61F-DB36D69FDA51_symbolID",
       "value": "48FA7F38-F7C0-4158-8971-448F07D8F834"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "DCE5E848-BCF8-4825-ACD8-4526C8624486/C9A0DA5C-3F81-449A-96AD-CF967833EB16/B7FB223A-0725-4420-B117-8FC1B7E99BF4_stringValue",
-      "value": "DEPTH CHART"
+      "overrideName": "1B85FE2E-BFE6-48EF-94DC-2A046AD0527B/70CAFDBF-2CC4-4A10-A61F-DB36D69FDA51/B7FB223A-0725-4420-B117-8FC1B7E99BF4_stringValue",
+      "value": "ORDER BOOK"
     }
   ],
   "resizingConstraint": 63,
@@ -118,6 +118,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "032C5931-9CC2-48B9-91C6-7032B100DB81",
+  "symbolID": "01FD63C6-C5E2-4643-89E5-5B08394BC9D3",
   "verticalSpacing": 0
 }

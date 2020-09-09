@@ -9,7 +9,7 @@
     "red": 0.04313725490196078
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1929,
+  "changeIdentifier": 4344,
   "clippingMaskMode": 0,
   "do_objectID": "80F58425-3FE6-41B3-8785-EA627ABDA9C0",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 266,
+    "height": 261,
     "width": 1088,
     "x": 9048,
     "y": 1250
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -93,7 +93,7 @@
       "id": "7B24F5A8-9525-4120-9C87-0FFC53B148BD"
     }
   ],
-  "name": "3 Organisms / Exchange / Depth Chart / Dark Copy",
+  "name": "3 Organisms / Exchange / Depth Chart / Dark Medium",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -194,7 +194,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
