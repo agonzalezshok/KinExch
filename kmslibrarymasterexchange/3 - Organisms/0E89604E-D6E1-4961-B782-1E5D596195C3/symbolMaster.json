@@ -9,7 +9,7 @@
     "red": 0.04313725490196078
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1894,
+  "changeIdentifier": 1895,
   "clippingMaskMode": 0,
   "do_objectID": "0E89604E-D6E1-4961-B782-1E5D596195C3",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -96,6 +96,11 @@
   "name": "3 Organisms / Exchange / Depth Chart / Dark",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "81C73D9A-69AF-4DBE-BBC4-0D588245ADF5_fillColor"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
