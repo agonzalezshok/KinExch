@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 575,
+  "changeIdentifier": 595,
   "clippingMaskMode": 0,
   "do_objectID": "BC68CA88-4A6A-448D-BEED-1AF48C8C774F",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 31,
     "width": 49,
     "x": 3496,
-    "y": 3158
+    "y": 3107
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

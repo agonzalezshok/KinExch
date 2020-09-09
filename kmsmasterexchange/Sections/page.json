@@ -201,6 +201,10 @@
     },
     {
       "class": "artboard",
+      "id": "18C9848A-67E9-4BC7-8097-3462C3E6513B"
+    },
+    {
+      "class": "artboard",
       "id": "9D466859-C496-4DB3-A030-84F9F6F194C4"
     },
     {
@@ -270,10 +274,6 @@
     {
       "class": "artboard",
       "id": "EA84A0DB-3D2D-46D1-A69E-7B75E25F749E"
-    },
-    {
-      "class": "rectangle",
-      "id": "8FB343FD-E1C5-4B13-8D93-AC9324BCA1FF"
     },
     {
       "class": "artboard",

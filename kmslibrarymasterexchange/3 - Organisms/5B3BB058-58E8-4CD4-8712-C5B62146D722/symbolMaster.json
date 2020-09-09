@@ -9,7 +9,7 @@
     "red": 0.04313725490196078
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2531,
+  "changeIdentifier": 2573,
   "clippingMaskMode": 0,
   "do_objectID": "5B3BB058-58E8-4CD4-8712-C5B62146D722",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 560,
     "width": 312,
-    "x": 5119,
-    "y": 1397
+    "x": 5872,
+    "y": 2314
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -108,6 +108,11 @@
   "name": "3 Organisms / Exchange / Buy / Limit / Dark",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6FF9C36D-7776-4F4C-8AF3-B49F40CBF611_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

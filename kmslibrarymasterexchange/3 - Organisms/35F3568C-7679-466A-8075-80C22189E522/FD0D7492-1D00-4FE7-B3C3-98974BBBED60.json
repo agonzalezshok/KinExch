@@ -33,12 +33,12 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "BE3924D1-D8BA-4692-A708-25B623535A4C_stringValue",
+      "overrideName": "78C7667B-88EE-4D32-B982-A32C17953CD8_stringValue",
       "value": "Place your order"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "1E6209A1-293F-442F-B32B-127ECFA866C1_layerStyle",
+      "overrideName": "8C62E432-F2A4-4BFA-AAFE-D63F5C55E179_layerStyle",
       "value": "13129EA7-0069-490C-84CD-7A80A5A76CB7"
     }
   ],
@@ -93,6 +93,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6CFAAA90-B2FE-49ED-A716-B576DE2C92BD",
+  "symbolID": "CDE582FF-722A-451D-9C6C-00812E72B172",
   "verticalSpacing": 0
 }

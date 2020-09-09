@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3ED4D291-0DFD-49BC-AC98-714BC039C4C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 94,
+    "width": 1088,
+    "x": 0,
+    "y": 89
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "2 Molecules / Tables / Exchange / Open Orders / Rows / Light / Buy Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "197603E4-6080-47F1-92F1-71CD6428A3C5/8A4D4651-C508-4D3F-BFBA-B1563667B3AA_stringValue",
+      "value": "$0,000.00"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E2E70E9D-456C-40D1-AAA2-93E47A2F7909/8A4D4651-C508-4D3F-BFBA-B1563667B3AA_stringValue",
+      "value": "$0,000.00"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B529CADB-4800-4E63-9923-527A908FE33D/8A4D4651-C508-4D3F-BFBA-B1563667B3AA_stringValue",
+      "value": "$0,000.00"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "66B72270-878F-4F72-9639-4432A61431F1/8A4D4651-C508-4D3F-BFBA-B1563667B3AA_stringValue",
+      "value": "$0,000.00"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ECCCBECB-7CCF-40A0-B32F-E17737D22AC9/8748A962-E734-4CF6-AD62-3B2674C84C6D_stringValue",
+      "value": "$0.000,00"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9AFCC0D0-83F6-4371-9A2B-415D2F134787/8748A962-E734-4CF6-AD62-3B2674C84C6D_stringValue",
+      "value": "$0,000.00"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "196A8317-AEB1-4363-B3F2-7AFD023A7A5B",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A0A5DDE0-25EA-4E4A-BBB4-11497C12303B",
+  "verticalSpacing": 0
+}

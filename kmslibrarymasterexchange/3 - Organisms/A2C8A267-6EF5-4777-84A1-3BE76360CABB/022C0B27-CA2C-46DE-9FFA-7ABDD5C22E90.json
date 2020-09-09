@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8FB343FD-E1C5-4B13-8D93-AC9324BCA1FF",
+  "do_objectID": "022C0B27-CA2C-46DE-9FFA-7ABDD5C22E90",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,11 +16,11 @@
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 62,
-    "width": 62,
-    "x": 30048,
-    "y": 36041
+    "constrainProportions": false,
+    "height": 1,
+    "width": 312,
+    "x": 0,
+    "y": 48
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,8 +31,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
-  "nameIsFixed": false,
+  "name": "Divider",
+  "nameIsFixed": true,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -77,9 +77,10 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "5865B7F0-8C84-4656-8E48-C505FF56E00E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -113,9 +114,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.1
     },
-    "do_objectID": "74C14C4F-824E-4787-84C7-A7C783F7A79E",
+    "do_objectID": "F2C889D1-11B1-49A2-912C-BC5C73AC2A39",
     "endMarkerType": 0,
     "fills": [
       {
@@ -123,9 +124,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4087432613217734,
-          "green": 0.4087432613217734,
-          "red": 0.9694859601449275
+          "blue": 0.1725490196078431,
+          "green": 0.1137254901960784,
+          "red": 0.05098039215686274
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

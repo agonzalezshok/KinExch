@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2789,
+  "changeIdentifier": 2831,
   "clippingMaskMode": 0,
   "do_objectID": "66FC8D24-5E46-4669-8B4A-DD0F3D92EF4E",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 560,
     "width": 312,
-    "x": 6281,
-    "y": 1397
+    "x": 7034,
+    "y": 2314
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -112,6 +112,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "1CCAFAA7-990D-47DD-9236-A36576DE7B8B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "40EB4106-4262-4AF8-B3CC-6BE3B9F32459_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
