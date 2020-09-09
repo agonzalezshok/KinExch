@@ -31,10 +31,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1231,
+    "height": 1498,
     "width": 1024,
     "x": 30050,
-    "y": 38520
+    "y": 37335
   },
   "grid": {
     "_class": "simpleGrid",
@@ -70,7 +70,43 @@
     },
     {
       "class": "symbolInstance",
-      "id": "5BA637F6-5B4C-4F66-933A-D469EAFC68EC"
+      "id": "2CC0425A-85CE-4B9E-977D-2513A7BD90FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6168918-23D1-41DE-8822-DFA89408BCF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "352FF4CD-930E-4AD8-A79A-FDC19FE88211"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8163BC2-1D6F-43B5-A2E0-1B38FF9A5494"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7316347-7947-4035-8B9E-5B8E5D36EDB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E90E4A1B-9F7B-4BC1-9FB4-DF9AA8AF2314"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88DBD95A-D312-482C-B0F9-8DCFD150A092"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "314835A9-4DC6-465F-9A46-1F5917723534"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14E16DB2-014B-45CE-878B-9A247275C914"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79CB02DC-94AF-4248-B9CF-846E6E0D32C6"
     }
   ],
   "layout": {

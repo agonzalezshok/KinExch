@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3485,
+  "changeIdentifier": 3507,
   "clippingMaskMode": 0,
   "do_objectID": "F3E45EE3-FBD5-4694-B3C3-65FA985778E6",
   "exportOptions": {
@@ -89,12 +89,8 @@
       "id": "18BC3350-1CA6-499B-99E0-5F4AF3CD292B"
     },
     {
-      "class": "rectangle",
-      "id": "AA340E76-8A94-4B14-BB44-30546CF06CF0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "20C4BE39-6099-4B76-AAEC-0770BE75085A"
+      "class": "group",
+      "id": "BE87339A-2662-4E9B-AF58-231D6E214180"
     },
     {
       "class": "symbolInstance",
@@ -107,10 +103,6 @@
     {
       "class": "symbolInstance",
       "id": "94F3BC78-351E-465B-AF4B-5EAD33F572E9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B690E3E2-503B-454D-B599-3B6A31325EBA"
     },
     {
       "class": "symbolInstance",

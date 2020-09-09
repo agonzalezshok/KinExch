@@ -1,0 +1,190 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C5433CB-C510-4FF9-A3B1-B72C209EE37F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1471,
+    "width": 768,
+    "x": 40272,
+    "y": 40928
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FB86A58E-EE43-493D-BCB4-B20A825B1FD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFFA754A-ADAE-43BC-859E-4B3433520A0D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D66251B-8004-4F2C-A2F9-A750DF74E0C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4652E4ED-42A0-453C-B37A-AA941ED33BE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED5FDB80-B68F-43A1-A7CA-1FEAD64A94B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "612643CF-0655-4E17-BC34-1455056D0D51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16589050-E432-47BD-9953-7069BABD5FE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "557A38E1-F638-48EC-8C81-CE8765EE3AF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "391C4F96-5226-459C-8285-CA0005DEA099"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC96B1DF-32D4-47E6-AA81-2F9FC4C7621B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "896FBC0D-CAE1-47F6-B41C-D9C46893EEBE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A4EBA84-418E-471B-8637-E07352D596AD"
+    },
+    {
+      "class": "group",
+      "id": "A6F54D6B-03EA-487D-B063-26519878F53A"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 73,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 186,
+    "isEnabled": true,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 558
+  },
+  "name": "Success  Order Pop up - Small",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "66EC7E5E-47DD-45C3-87E7-FDB0045370A5",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

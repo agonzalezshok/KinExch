@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 83,
-    "x": 56,
+    "height": 16,
+    "width": 60,
+    "x": 48,
     "y": 16
   },
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "73A9C18E-6D23-4288-9CB1-7CE299E54273_stringValue",
+      "overrideName": "E63978F2-3E17-423C-812A-8DA24F69088A_stringValue",
       "value": "KAU/USD"
     }
   ],
@@ -88,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "81D2EF03-4181-48B1-AEFF-D9D169406DB8",
+  "symbolID": "8EC6FAE1-DCD8-4D1E-B241-C8E1662034F2",
   "verticalSpacing": 0
 }

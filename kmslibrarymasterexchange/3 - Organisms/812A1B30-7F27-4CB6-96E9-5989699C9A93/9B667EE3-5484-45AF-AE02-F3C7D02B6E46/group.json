@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 312,
+    "height": 970,
+    "width": 282,
     "x": 0,
-    "y": 0
+    "y": 24
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,12 +30,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "0C1421D0-3514-4988-B82F-3932609792BA"
-    },
     {
       "class": "symbolInstance",
       "id": "3321269B-E2E4-4B42-901A-0E4A914BB680"
@@ -189,17 +185,13 @@
       "id": "042A7510-CB8F-425D-9389-33D27D8E0664"
     },
     {
-      "class": "group",
-      "id": "129A6F60-D2ED-48CC-9059-A2D4E89C82C3"
-    },
-    {
       "class": "shapePath",
       "id": "C70C6103-A9BC-47A7-AE48-C99B77BDE19B"
     }
   ],
   "name": "MarketPairs",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

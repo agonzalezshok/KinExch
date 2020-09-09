@@ -9,7 +9,7 @@
     "red": 0.04313725490196078
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2900,
+  "changeIdentifier": 2923,
   "clippingMaskMode": 0,
   "do_objectID": "72803C5E-A042-480F-B26F-DD85520EF43B",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -101,16 +101,8 @@
       "id": "3DF57A05-4781-4581-A3FB-7E95C322F54D"
     },
     {
-      "class": "rectangle",
-      "id": "90FD3B6E-FCEA-4282-9C2B-CCEF7E2B76AE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AB40A38E-811F-40A1-B36A-A373E732DF14"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F6F5D568-E8CB-4B4D-B719-0B6EF7DE572D"
+      "class": "group",
+      "id": "B16C9A56-CDC0-4BB8-A030-858E9F7C8DFA"
     },
     {
       "class": "symbolInstance",
@@ -198,7 +190,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

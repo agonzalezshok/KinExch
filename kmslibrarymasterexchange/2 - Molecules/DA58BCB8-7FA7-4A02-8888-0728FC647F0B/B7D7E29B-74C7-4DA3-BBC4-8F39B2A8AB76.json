@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 67,
-    "x": 104,
+    "x": 122,
     "y": 12
   },
   "hasClippingMask": false,
@@ -33,11 +33,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "6E3FC1AD-8F1F-47AA-B7F4-C99F0EDD9B6C_stringValue",
+      "overrideName": "2CD42C85-7D85-4969-BB22-37C4224AEF90_stringValue",
       "value": "Price (USD)"
     }
   ],
-  "resizingConstraint": 61,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -88,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B65B3613-48ED-4D5A-BD6A-B1944AA2B0BB",
+  "symbolID": "7C0D2C44-20CF-4356-B68E-44E2279E757A",
   "verticalSpacing": 0
 }

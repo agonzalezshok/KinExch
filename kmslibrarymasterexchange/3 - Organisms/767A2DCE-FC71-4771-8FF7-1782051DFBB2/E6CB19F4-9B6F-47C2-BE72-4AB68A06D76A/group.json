@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 296,
-    "x": 689,
+    "height": 48,
+    "width": 112,
+    "x": 584,
     "y": 0
   },
   "groupLayout": {
@@ -39,10 +39,6 @@
     {
       "class": "symbolInstance",
       "id": "84788F59-2B85-4B87-B368-F1416CAC0AB8"
-    },
-    {
-      "class": "text",
-      "id": "D7345C38-A8AA-4FB4-BC2C-458BEB902AD4"
     },
     {
       "class": "symbolInstance",

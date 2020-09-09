@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1903,
+  "changeIdentifier": 1968,
   "clippingMaskMode": 0,
   "do_objectID": "812A1B30-7F27-4CB6-96E9-5989699C9A93",
   "exportOptions": {
@@ -53,8 +53,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "9B14A0B5-8B59-439A-A018-2664C15FC455"
+    },
+    {
       "class": "group",
       "id": "9B667EE3-5484-45AF-AE02-F3C7D02B6E46"
+    },
+    {
+      "class": "group",
+      "id": "129A6F60-D2ED-48CC-9059-A2D4E89C82C3"
     }
   ],
   "name": "3 Organisms / Exchange / Market Pairs / Light",
@@ -268,7 +276,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

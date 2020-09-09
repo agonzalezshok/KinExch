@@ -31,10 +31,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 960,
+    "height": 1471,
     "width": 768,
     "x": 30048,
-    "y": 40275
+    "y": 40928
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -60,15 +60,47 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "2AFC4BA3-E3BC-4343-A0FC-C3858092E1EF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C797FEC7-8B43-42CC-916D-925141FFFA53"
-    },
-    {
-      "class": "symbolInstance",
       "id": "BCEA1AF9-2C63-448D-B9B2-558DC21313BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71908639-F9AE-42E5-AB27-1840219EFE7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7546A1FA-EBF1-442B-B8AD-F2E681027E5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB651B58-3AB3-4608-9806-393D84F83175"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "907EAEBF-B448-439A-90ED-1F909EA5F1F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73290047-789C-4C4B-9115-D6D9809541A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A014F68E-EA1B-4F41-8A58-ACDF3F6F708B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1A61BC3-2922-41B8-86C8-B18A00E77741"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F183BB8D-28AB-4F87-AE5B-48B0168411F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8904E90-78E8-4B0E-BAD5-B3733299552B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4F1E6A5-C96F-49CC-99C5-E6FE21B69B2E"
     }
   ],
   "layout": {
@@ -81,7 +113,7 @@
     "gutterWidth": 24,
     "guttersOutside": false,
     "horizontalOffset": 186,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 6,
     "rowHeightMultiplication": 5,
     "totalWidth": 558

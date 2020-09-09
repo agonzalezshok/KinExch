@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 162,
+  "changeIdentifier": 193,
   "clippingMaskMode": 0,
   "do_objectID": "98FB77A4-FEF2-41BB-9D17-173601D00BFF",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 1088,
     "width": 16,
-    "x": 7137,
+    "x": 7107,
     "y": 2986
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,6 +64,11 @@
   "name": "1 Atoms / Collapse Light / Vertical",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "499AE811-E86C-42DE-858A-3A44B84E5AE5_symbolID"
+    }
   ],
   "presetDictionary": {
   },

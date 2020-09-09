@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
+    "height": 17,
     "width": 22.04724409448819,
-    "x": 0.9999999999997673,
+    "x": 0.9999999999993125,
     "y": 0
   },
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "402C1FF6-37A1-4667-BB32-8DBBE5A0BA6F_stringValue",
+      "overrideName": "6E3FC1AD-8F1F-47AA-B7F4-C99F0EDD9B6C_stringValue",
       "value": "Bid"
     }
   ],
@@ -88,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4154F414-C866-48DB-A822-4DDAE6100879",
+  "symbolID": "B65B3613-48ED-4D5A-BD6A-B1944AA2B0BB",
   "verticalSpacing": 0
 }
