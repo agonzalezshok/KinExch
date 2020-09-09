@@ -274,6 +274,18 @@
     {
       "class": "rectangle",
       "id": "8FB343FD-E1C5-4B13-8D93-AC9324BCA1FF"
+    },
+    {
+      "class": "artboard",
+      "id": "4787AB47-CECE-4A04-AD49-69D3C4BD6D66"
+    },
+    {
+      "class": "artboard",
+      "id": "ECE93EF2-7060-4F84-A38B-C1694E3F03F7"
+    },
+    {
+      "class": "artboard",
+      "id": "E0C90D5E-43D5-44B7-96E2-9D3625362A23"
     }
   ],
   "name": "Sections",
