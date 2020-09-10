@@ -9,7 +9,7 @@
     "red": 0.04313725490196078
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2814,
+  "changeIdentifier": 2833,
   "clippingMaskMode": 0,
   "do_objectID": "D4A416F3-5124-47B9-8251-16F33F0C15B8",
   "exportOptions": {
@@ -89,14 +89,6 @@
       "id": "653E1E46-9DC0-4E81-8C86-AAD591CE36AB"
     },
     {
-      "class": "rectangle",
-      "id": "007335A2-14EA-4FA8-8CE0-114BF7EC35AC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "76DD7E4E-E3FA-44BB-95E6-99DE3A5E991E"
-    },
-    {
       "class": "symbolInstance",
       "id": "CF3A12B3-626F-422A-8FF3-44DF88E55EC6"
     },
@@ -114,7 +106,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "91058B71-65B1-4075-A1F3-17C2165D580F"
+      "id": "6F34C443-4FF9-42FF-BDC3-B513039481F9"
     }
   ],
   "name": "3 Organisms / Exchange / Buy / Market / Error / Dark",

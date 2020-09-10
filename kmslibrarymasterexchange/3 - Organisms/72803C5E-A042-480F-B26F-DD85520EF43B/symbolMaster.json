@@ -9,7 +9,7 @@
     "red": 0.04313725490196078
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2923,
+  "changeIdentifier": 2959,
   "clippingMaskMode": 0,
   "do_objectID": "72803C5E-A042-480F-B26F-DD85520EF43B",
   "exportOptions": {
@@ -101,12 +101,12 @@
       "id": "3DF57A05-4781-4581-A3FB-7E95C322F54D"
     },
     {
-      "class": "group",
-      "id": "B16C9A56-CDC0-4BB8-A030-858E9F7C8DFA"
+      "class": "symbolInstance",
+      "id": "1D508485-E5BF-46F1-BD6A-9F339EF5B788"
     },
     {
       "class": "symbolInstance",
-      "id": "1D508485-E5BF-46F1-BD6A-9F339EF5B788"
+      "id": "30DB79C2-E466-424E-949D-E1AD586BEB6D"
     }
   ],
   "name": "3 Organisms / Exchange / Buy / Market / Dark Medium",

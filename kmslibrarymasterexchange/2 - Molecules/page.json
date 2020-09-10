@@ -850,6 +850,18 @@
     {
       "class": "text",
       "id": "8894FC9D-049A-480F-9903-869EB93C2301"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9CE876BF-57F9-4D68-AC6B-B492ACA1557A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D118A794-E860-4B3A-98F4-787DE1864DA8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C3A686BC-251D-45B0-AE60-936E91BDDC33"
     }
   ],
   "name": "2 - Molecules",

@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 338,
+  "changeIdentifier": 341,
   "clippingMaskMode": 0,
   "do_objectID": "98EE1DDF-9A5D-4E07-9E11-2E60EF483AB2",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 12,
     "width": 180,
     "x": -489,
-    "y": 4130
+    "y": 4087
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -57,7 +57,7 @@
       "id": "9F5BCD52-9CE6-44A8-85F5-737909840034"
     }
   ],
-  "name": "1 Atoms/Typography/Metropolis/Light/Regular/Left/Size 8",
+  "name": "1 Atoms/Typography/Metropolis/Light/Regular/Left Centre/Size 8",
   "nameIsFixed": true,
   "overrideProperties": [
     {

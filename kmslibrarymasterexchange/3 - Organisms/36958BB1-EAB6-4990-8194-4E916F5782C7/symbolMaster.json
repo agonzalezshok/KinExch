@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3210,
+  "changeIdentifier": 3334,
   "clippingMaskMode": 0,
   "do_objectID": "36958BB1-EAB6-4990-8194-4E916F5782C7",
   "exportOptions": {
@@ -105,16 +105,8 @@
       "id": "B2005899-8FD9-480A-B271-2E4ED933C7AC"
     },
     {
-      "class": "rectangle",
-      "id": "B549A5CC-5F98-47A6-A59D-C3F3DBBD1BFD"
-    },
-    {
       "class": "symbolInstance",
-      "id": "8C294EE7-BA7C-46ED-97D0-A7EC25D5DCC9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "508C329B-AD46-4FC4-8F2A-451CD336E751"
+      "id": "30192142-7A73-4BC4-972F-3876CF43CA33"
     }
   ],
   "name": "3 Organisms / Exchange / Buy / Market / Error / Light",

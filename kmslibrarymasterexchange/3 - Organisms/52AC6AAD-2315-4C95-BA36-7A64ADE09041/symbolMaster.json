@@ -9,7 +9,7 @@
     "red": 0.04313725490196078
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2887,
+  "changeIdentifier": 2922,
   "clippingMaskMode": 0,
   "do_objectID": "52AC6AAD-2315-4C95-BA36-7A64ADE09041",
   "exportOptions": {
@@ -101,12 +101,12 @@
       "id": "6AC24694-1826-48B9-BA1A-00835E258E0C"
     },
     {
-      "class": "group",
-      "id": "079C2F0F-591B-4720-BECC-3C4149E26626"
+      "class": "symbolInstance",
+      "id": "C2E7C7DC-AEEE-48C5-842F-C9BB6C8E56C1"
     },
     {
       "class": "symbolInstance",
-      "id": "C2E7C7DC-AEEE-48C5-842F-C9BB6C8E56C1"
+      "id": "8562D7B8-EE6C-44AF-B4FD-BAEF06070D9F"
     }
   ],
   "name": "3 Organisms / Exchange / Sell / Market / Dark Medium",
@@ -115,12 +115,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4E380247-5601-445C-A0B5-DF4A386289DF_symbolID"
+      "overrideName": "8562D7B8-EE6C-44AF-B4FD-BAEF06070D9F_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4ADD61E2-CE51-4A17-B501-16EE782EC9A9_symbolID"
+      "overrideName": "4E380247-5601-445C-A0B5-DF4A386289DF_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -141,11 +141,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "C2E7C7DC-AEEE-48C5-842F-C9BB6C8E56C1_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "EA850B95-5590-45F9-9E24-03D15B5A064A_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

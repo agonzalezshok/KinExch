@@ -34,27 +34,27 @@
     {
       "_class": "overrideValue",
       "overrideName": "4B74CF30-6483-4B76-BA85-968F07D4FFCF_symbolID",
-      "value": "F765B2F9-6704-489B-8DA9-3CA69248D1DC"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "9EFECFFE-E2CC-40F8-9D21-ADF0037BADF6_symbolID",
       "value": "F48C6493-2BF5-42F2-8FE3-DE81511D44C8"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "4B74CF30-6483-4B76-BA85-968F07D4FFCF/342BD9DB-D82A-4C8B-9C79-F90874AB49FF/E966D0AD-70AE-4FC6-8DA5-C1A1EC60A1D9_stringValue",
-      "value": "BUY"
+      "overrideName": "9EFECFFE-E2CC-40F8-9D21-ADF0037BADF6_symbolID",
+      "value": "F765B2F9-6704-489B-8DA9-3CA69248D1DC"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "9EFECFFE-E2CC-40F8-9D21-ADF0037BADF6/E412CA67-6D6D-4179-B22F-C18164A9DDC5/E966D0AD-70AE-4FC6-8DA5-C1A1EC60A1D9_stringValue",
+      "overrideName": "4B74CF30-6483-4B76-BA85-968F07D4FFCF/E412CA67-6D6D-4179-B22F-C18164A9DDC5/E966D0AD-70AE-4FC6-8DA5-C1A1EC60A1D9_stringValue",
       "value": "SELL"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "9EFECFFE-E2CC-40F8-9D21-ADF0037BADF6/9C95917D-8DAC-46B8-940F-411D929962ED_layerStyle",
+      "overrideName": "4B74CF30-6483-4B76-BA85-968F07D4FFCF/9C95917D-8DAC-46B8-940F-411D929962ED_layerStyle",
       "value": "13129EA7-0069-490C-84CD-7A80A5A76CB7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9EFECFFE-E2CC-40F8-9D21-ADF0037BADF6/342BD9DB-D82A-4C8B-9C79-F90874AB49FF/E966D0AD-70AE-4FC6-8DA5-C1A1EC60A1D9_stringValue",
+      "value": "BUY"
     }
   ],
   "resizingConstraint": 63,

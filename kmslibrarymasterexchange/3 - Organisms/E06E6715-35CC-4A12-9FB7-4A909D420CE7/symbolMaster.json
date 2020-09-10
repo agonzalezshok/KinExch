@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3508,
+  "changeIdentifier": 3580,
   "clippingMaskMode": 0,
   "do_objectID": "E06E6715-35CC-4A12-9FB7-4A909D420CE7",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -101,12 +101,12 @@
       "id": "F7452581-B3A5-4D06-A74E-F764FE4A1375"
     },
     {
-      "class": "group",
-      "id": "05BE5BC5-AE10-4A4C-87F9-14367A58393F"
+      "class": "symbolInstance",
+      "id": "F1D27E5F-8B70-4DAC-8478-FB3F7E204FD5"
     },
     {
       "class": "symbolInstance",
-      "id": "F1D27E5F-8B70-4DAC-8478-FB3F7E204FD5"
+      "id": "D95DFF68-C0C5-490B-A2CB-26280AB0D997"
     }
   ],
   "name": "3 Organisms / Exchange / Sell / Market / Light Medium",
@@ -115,7 +115,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "1F007433-0368-49BB-9B61-B769C0B56DB8_symbolID"
+      "overrideName": "D95DFF68-C0C5-490B-A2CB-26280AB0D997_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -156,11 +156,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "53BEF6D4-DDFA-43C5-9CEC-BA6F727A9C0D_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "A3EFE81C-9FCD-4421-AAC8-C6FAD2FBAFF3_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
