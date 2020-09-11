@@ -9,7 +9,7 @@
     "red": 0.04313725490196078
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1551,
+  "changeIdentifier": 1781,
   "clippingMaskMode": 0,
   "do_objectID": "CEF3C725-E133-4F62-900C-A5F41DA89AA2",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 312,
-    "x": 5119,
-    "y": 92
+    "x": 5311,
+    "y": 307
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,147 +62,15 @@
     },
     {
       "class": "group",
-      "id": "5E5BB3DB-E637-4D47-8ED9-F42AEA9F73B4"
+      "id": "B069D0FC-06D7-472A-B74C-2DEED83EA8A0"
     },
     {
       "class": "symbolInstance",
-      "id": "1D328EE2-9A02-4805-B46E-F596A3039862"
+      "id": "53876283-1CB4-48F6-BB7D-9949FF97A7B6"
     },
     {
-      "class": "symbolInstance",
-      "id": "91D1FCF9-6740-4EEF-834C-CE01B5B0A7E5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "30608E09-3887-4DEB-B9B3-10603C72AD96"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2F065887-A7D3-4DFC-8316-B0CA94AFD5E2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "753B15FD-E2E3-4C6E-B93E-135B2891330C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5062FEA8-7822-4911-9C62-8478434AA699"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C7F52C04-9054-4558-8E5C-BD0BBE288D0C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EDC592CF-F3A3-4F3C-9ED0-A2ACE2493177"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D9A3D0FA-6C25-41D7-8858-5D08C817E41F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7F9FF66C-FE1D-4498-B63B-47B16E663660"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "010B66D1-0A8A-402A-83BC-81A6AC51DFEA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A12F4D98-4600-4CAA-B457-C39A00EBE9B4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D1FC49BF-6534-4E99-8DEE-11DE58696DF7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "78EE6113-277C-49A2-8A9F-D49E7D76308E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CDE5E311-65A3-4071-B1A0-B5F460DBF476"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C7122C5D-1FFC-4EB9-B45E-040DA8640987"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DD0CC7BA-7EA5-424F-AB33-5DBEC0CA044B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CEC83694-F229-4720-B3CB-56B30ED1176C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "20DC1B21-B3DF-4B68-BD77-C808586036EE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E2B8E1DD-178C-4382-A18E-3548B786B787"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A2D2809E-2332-40F3-9247-22FF06414B39"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8E4DD550-E1B8-4130-B70C-7BD7A3323CC6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "309F7CAD-4C0C-4C83-8906-180EAFBA5338"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D3FB9023-1998-4316-8C1C-B0C831DC7B5D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A581265C-1CE2-4F54-92C5-A219D529C719"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "431FF7B7-2A2B-43EE-8882-BDA567DBB106"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "785F966D-C717-4B7C-8C5C-3FAF5D299829"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4614DAEE-0D94-427B-8A5F-E071BA751240"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "05BB2A61-E8F3-4200-B6EF-A12FA47FF31F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "051D90AF-588B-4E48-AB0F-2AA1F8B5ABDC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6D7CD87B-FE7E-49C0-BBF0-06DA54A94E53"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "08DA7346-0997-4B46-ACB8-C665035F2020"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A2DE1074-057A-4430-9EB6-616E2ACB14DB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "19A9817E-079C-41A7-A024-1BD5124D3C93"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7FF52AC8-2ECA-4214-A146-7DD41ED600F1"
+      "class": "group",
+      "id": "080C6E97-1E36-4B71-9347-B5169131F1BE"
     }
   ],
   "name": "3 Organisms / Exchange / Market Pairs / Dark",
@@ -212,6 +80,31 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "6D7CD87B-FE7E-49C0-BBF0-06DA54A94E53_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E45D1A79-9C13-4CD3-94CE-22F07DF2E0F6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "53876283-1CB4-48F6-BB7D-9949FF97A7B6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E45D1A79-9C13-4CD3-94CE-22F07DF2E0F6_fillColor"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B01006EB-BA6A-4CEC-AEDE-2C0F66234CBB_fillColor"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B01006EB-BA6A-4CEC-AEDE-2C0F66234CBB_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

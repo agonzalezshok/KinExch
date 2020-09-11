@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 386,
-    "x": 24.05153901216909,
+    "width": 581,
+    "x": 24,
     "y": 18
   },
   "groupLayout": {
@@ -38,6 +38,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "FFEB53B5-14BC-4CD8-B7E1-C84C165A0C42"
+    },
+    {
+      "class": "symbolInstance",
       "id": "B8B14EDE-F3A3-4267-9335-ED1A8701E27B"
     },
     {
@@ -46,7 +50,15 @@
     },
     {
       "class": "symbolInstance",
+      "id": "07EED701-371A-446B-94B3-095484DC302C"
+    },
+    {
+      "class": "symbolInstance",
       "id": "D1F48FF9-507B-48E6-AB92-8C4DC783AD4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "118D95FD-6E8B-4614-8526-0E22EBC6B693"
     },
     {
       "class": "symbolInstance",
@@ -55,6 +67,10 @@
     {
       "class": "symbolInstance",
       "id": "88B5DAC6-7495-4851-A990-8220D8249FEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "915B623D-5987-48E9-8F10-464F58F875AE"
     }
   ],
   "name": "bid ask spread",

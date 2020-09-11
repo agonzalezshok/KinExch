@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10260,
+  "changeIdentifier": 10309,
   "clippingMaskMode": 0,
   "do_objectID": "09B2B353-93D1-4004-8CF6-8EE9D823BCCC",
   "exportOptions": {
@@ -58,11 +58,11 @@
     },
     {
       "class": "group",
-      "id": "0D30C848-FE0E-4A5A-812B-AFB66BDED4A2"
+      "id": "A2719AF7-FABB-42CB-9B5E-16876B094399"
     },
     {
       "class": "group",
-      "id": "DEAEB101-9B14-4DD0-A3B5-6C339330D61A"
+      "id": "5F12DF45-780F-4AAF-96AB-8ADE9845FC0C"
     }
   ],
   "name": "3 Organisms / Header / Exchange / Light / Market Small",

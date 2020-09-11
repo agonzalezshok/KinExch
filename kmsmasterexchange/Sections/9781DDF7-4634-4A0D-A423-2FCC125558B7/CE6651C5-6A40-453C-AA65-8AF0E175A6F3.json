@@ -33,32 +33,43 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "35F8466C-6A9E-463C-A34A-441E60E2D002_symbolID",
-      "value": "DDE93782-E303-48E3-9164-C9E02632C216"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "606DAE70-AB06-4092-A476-2273E515CC6A_symbolID",
+      "overrideName": "E7153215-64D3-4936-91D6-5EA0939E4F4C_symbolID",
       "value": "CAA09050-AAE9-4A86-B7C4-6C1E37DD7F2F"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "606DAE70-AB06-4092-A476-2273E515CC6A/7EC5B8E2-64C9-48F6-A4CD-040E563DCE15/54FF10A7-6E3F-4E52-A61C-2265CAFE5695_stringValue",
-      "value": "DEBIT CARD"
+      "overrideName": "F061C482-227E-4E67-AEEC-2A92CE751D95_symbolID",
+      "value": "DDE93782-E303-48E3-9164-C9E02632C216"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "35F8466C-6A9E-463C-A34A-441E60E2D002/C064CD40-D9AD-43F5-AD59-C5D3EFE47AAE/B7FB223A-0725-4420-B117-8FC1B7E99BF4_stringValue",
-      "value": "DASHBOARD"
+      "overrideName": "E7153215-64D3-4936-91D6-5EA0939E4F4C/C4CF96FF-08A7-4F56-B90E-174ED5C345B3_symbolID",
+      "value": "39C2D072-A76A-483F-875F-FCC3AA96DB8E"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "35F8466C-6A9E-463C-A34A-441E60E2D002/5CD50F44-9285-4AAF-93BF-9652A9BC76FC_symbolID",
+      "overrideName": "F061C482-227E-4E67-AEEC-2A92CE751D95/5CD50F44-9285-4AAF-93BF-9652A9BC76FC_symbolID",
       "value": "A35AD5C3-ADD6-4E8A-AAE0-0D486C467BC1"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "35F8466C-6A9E-463C-A34A-441E60E2D002/5CD50F44-9285-4AAF-93BF-9652A9BC76FC/2708A45F-C486-4FD1-97DD-9184692E99E6_fillColor",
+      "overrideName": "E7153215-64D3-4936-91D6-5EA0939E4F4C/7EC5B8E2-64C9-48F6-A4CD-040E563DCE15/54FF10A7-6E3F-4E52-A61C-2265CAFE5695_stringValue",
+      "value": "DEBIT CARD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E7153215-64D3-4936-91D6-5EA0939E4F4C/C4CF96FF-08A7-4F56-B90E-174ED5C345B3/5070D796-B4CD-407A-B320-8D610CEE6861_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 0.199999988079071,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F061C482-227E-4E67-AEEC-2A92CE751D95/5CD50F44-9285-4AAF-93BF-9652A9BC76FC/2708A45F-C486-4FD1-97DD-9184692E99E6_fillColor",
       "value": {
         "_class": "color",
         "alpha": 1,
@@ -69,19 +80,8 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "606DAE70-AB06-4092-A476-2273E515CC6A/C4CF96FF-08A7-4F56-B90E-174ED5C345B3_symbolID",
-      "value": "39C2D072-A76A-483F-875F-FCC3AA96DB8E"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "606DAE70-AB06-4092-A476-2273E515CC6A/C4CF96FF-08A7-4F56-B90E-174ED5C345B3/5070D796-B4CD-407A-B320-8D610CEE6861_fillColor",
-      "value": {
-        "_class": "color",
-        "alpha": 0.199999988079071,
-        "blue": 1,
-        "green": 1,
-        "red": 1
-      }
+      "overrideName": "F061C482-227E-4E67-AEEC-2A92CE751D95/C064CD40-D9AD-43F5-AD59-C5D3EFE47AAE/B7FB223A-0725-4420-B117-8FC1B7E99BF4_stringValue",
+      "value": "DASHBOARD"
     }
   ],
   "resizingConstraint": 63,
@@ -135,6 +135,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5C3940C6-05A1-45D3-9CC7-AB1AE6B49178",
+  "symbolID": "636E6533-F716-41CF-9F26-B6C0C3656966",
   "verticalSpacing": 0
 }

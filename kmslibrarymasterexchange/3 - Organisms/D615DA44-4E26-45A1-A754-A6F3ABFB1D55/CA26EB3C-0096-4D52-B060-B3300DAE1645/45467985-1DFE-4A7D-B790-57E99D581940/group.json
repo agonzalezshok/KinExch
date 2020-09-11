@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 386,
-    "x": 24.05153901216909,
+    "width": 581,
+    "x": 24,
     "y": 18
   },
   "groupLayout": {
@@ -55,6 +55,22 @@
     {
       "class": "symbolInstance",
       "id": "BB1DBB87-D1B6-42BA-B356-48774F440606"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBB9A561-7190-45BE-945E-42D8A709A0CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE1569BE-EFD7-44F2-A566-18C25165330A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99ABD03D-5543-44ED-BAC5-D70B9D3F2E9E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBD1FCA8-C95B-4B89-ACEC-22121AFC9ADB"
     }
   ],
   "name": "Group 4",

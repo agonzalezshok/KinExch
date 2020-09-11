@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 390,
-    "x": 194,
+    "width": 432,
+    "x": 152,
     "y": 0
   },
   "groupLayout": {
@@ -30,15 +30,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "73EFE585-05DB-4550-BB9E-B2841A9FC414"
+      "class": "rectangle",
+      "id": "0260B29F-A133-49FB-AEED-B0D6A8350660"
     },
     {
       "class": "group",
-      "id": "CE5752A9-89B2-44E5-AE83-18AB89411E67"
+      "id": "C8B99920-D480-433D-93BE-B34EF7889673"
     },
     {
       "class": "symbolInstance",
